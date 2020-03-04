@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578468465 source:c:\users\tudor\onedrive\desktop\lab cp\1-cp\chindea tudor eugen\casualwood\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
